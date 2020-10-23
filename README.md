@@ -11,8 +11,8 @@ Connect Fronius Symo Solar PV Inverter with Node Red and Alexa Echo
 * Fronius Symo Inverter
 * Raspberry Pi with Node Red (https://nodered.org/docs/getting-started/raspberrypi)
   * Install in Node-Red:
-    ** https://flows.nodered.org/node/node-red-contrib-virtual-smart-home
-    ** https://flows.nodered.org/node/node-red-contrib-alexa-remote2
+    * https://flows.nodered.org/node/node-red-contrib-virtual-smart-home
+    * https://flows.nodered.org/node/node-red-contrib-alexa-remote2
 * Amazon Alexa Acount
 * Echo Smart Plug in the example or Shally plug.
 * Fronius and Raspberry must be in same local network 
